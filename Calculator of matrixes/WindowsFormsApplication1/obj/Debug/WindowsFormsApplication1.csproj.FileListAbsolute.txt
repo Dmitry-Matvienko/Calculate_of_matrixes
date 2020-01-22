@@ -1,0 +1,65 @@
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Моя папка\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Моя папка\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Моя папка\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Моя папка\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Моя папка\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Моя папка\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Моя папка\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Моя папка\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Моя папка\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Моя папка\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\C#\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\C#\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\C#\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\C#\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\C#\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\C#\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Windows Design\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Windows Design\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Windows Design\Windows Design\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Windows Design\Windows Design\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\Windows Design1\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
