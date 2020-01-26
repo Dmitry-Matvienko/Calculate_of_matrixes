@@ -63,3 +63,12 @@ C:\Users\user\Desktop\папка\Курсовой программировани
 C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\user\Desktop\папка\Курсовой программирование\Матвиенко\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Mtrx\Calculator of matrixes\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

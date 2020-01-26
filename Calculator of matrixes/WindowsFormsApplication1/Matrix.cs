@@ -27,17 +27,7 @@ namespace WindowsFormsApplication1
             this.CountRow = matrix_1_0.CountRow;
         }
        
-         public void Transp() //Метод транспонирования матрицы
-        {
-            for (int j = 0; j < CountRow; j++)
-            {
-                for (int i = 0; i < CountColumn; i++)
-                {
-                    Console.Write(matrix[i, j] + "\t");
-                }
-                Console.WriteLine("\n");
-            }
-         }
+        
 
          float GetM(float[][] Matrix)
         {
@@ -80,30 +70,31 @@ namespace WindowsFormsApplication1
             return Returning;
         }
 
-        static T[][] ToJag<T>(T[,] source)
-        {
-            try
-            {
-                int FirstDim = source.GetLength(0);  // Row
-                int SecondDim = source.GetLength(1); // Column
+         static T[][] ToJag<T>(T[,] source)
+         {
+             try
+             {
+                 int FirstDim = source.GetLength(0);  // Row
+                 int SecondDim = source.GetLength(1); // Column
 
-                var result = new T[FirstDim][];   // тільки прийнятний синтаксис ???
-                for (int i = 0; i < FirstDim; ++i)
-                {
-                    result[i] = new T[source.GetLength(1)];  // тільки для рядків
-                    for (int j = 0; j < SecondDim; ++j)
-                    {
-                        result[i][j] = source[i, j];
-                    }
-                }
+                 var result = new T[FirstDim][];   // тільки прийнятний синтаксис ???
+                 for (int i = 0; i < FirstDim; ++i)
+                 {
+                     result[i] = new T[source.GetLength(1)];  // тільки для рядків
+                     for (int j = 0; j < SecondDim; ++j)
+                     {
+                         result[i][j] = source[i, j];
+                     }
+                 }
 
-                return result;
-            }
-            catch (InvalidOperationException)
-            {
-                throw new InvalidOperationException("Invalid operation error.");
-            }
-        }
+                 return result;
+             }
+             catch (InvalidOperationException)
+             {
+                 throw new InvalidOperationException("Invalid operation error.");
+             }
+         }
+
         public Matrix Opr() //Метод знаходження визначника матриці
         {
             Matrix t = new Matrix();
@@ -187,3 +178,15 @@ namespace WindowsFormsApplication1
         }
     }
 }
+ /* public void Transp() //Метод транспонирования матрицы
+        {
+            for (int j = 0; j < CountRow; j++)
+            {
+                for (int i = 0; i < CountColumn; i++)
+                {
+                    Console.Write(matrix[i, j] + "\t");
+                }
+                Console.WriteLine("\n");
+            }
+         }
+*/
